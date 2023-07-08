@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Orelega+One&display=swap");
+@import url("https://fonts.cdnfonts.com/css/gentium-basic");
+
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+@layer {
+  img {
+    @apply mx-auto;
+  }
+}
