@@ -4,6 +4,7 @@ import Loading from "./Components/Loading";
 import Hero from "./Components/Hero";
 import About from "./Components/About";
 import Mics from "./Components/Mics";
+import Footer from "./Components/Footer";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Hero />
       <About />
       <Mics />
+      <Footer />
     </div>
   );
 };

@@ -23,7 +23,7 @@ const Mics = () => {
         <article className="w-max grid grid-cols-1 gap-20 md:grid-cols-2 justify-center items-center">
           <div className=" flex-col justify-start items-center flex gap-6">
             <div className="text-white text-[100px] font-primary leading-10">
-              0%
+              1%
             </div>
             <div className="text-white text-[40px] font-primary leading-10">
               TAX
