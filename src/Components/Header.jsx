@@ -1,5 +1,5 @@
 import React from "react";
-import HeaderLogo from "../assets/HeaderLogo.png";
+import HeaderLogo from "../assets/headerLogo.png";
 
 const Header = () => {
   return (
@@ -18,7 +18,6 @@ const Header = () => {
         >
           TELEGRAM
         </a>
-        
       </nav>
     </header>
   );
